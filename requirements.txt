@@ -1,0 +1,10 @@
+langchain==0.3.19
+langchain-groq==0.2.4
+langchain-openai==0.3.7
+langchain-community==0.3.18
+langchain-core==0.3.40
+sentence-transformers==3.4.1
+langchain-text-splitters==0.3.6
+pypdf==5.3.0
+streamlit==1.42.2
+faiss-cpu==1.10.0
