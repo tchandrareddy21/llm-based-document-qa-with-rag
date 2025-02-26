@@ -42,7 +42,7 @@ streamlit run app.py
 #### To use live streamlit app 
 - Go to the below URL and follow the Usage Guide below:
 
-[LLM Based Document Q&A with RAG - Live APP]()
+[LLM Based Document Q&A with RAG - Live APP](https://llm-based-document-q-a-with-rag.streamlit.app/)
 
 ## 🎯 Usage Guide
 - **Enter API Keys** : Provide your Groq API Key and OpenAI API Key in the sidebar.
@@ -52,8 +52,18 @@ streamlit run app.py
 - **Chat with the AI** : Ask questions and get responses based on document content.
 
 ## 📸 Project Screenshots
-![]()
-![]()
+- Home page
+![Home page](screenshots/Home%20page.png)
+- After adding API keys
+![after API keys added UI](screenshots/after%20API%20keys%20added%20UI.png)
+- File uploaded scuccessfully
+![File uploaded scuccessfully](screenshots/File%20uploaded%20scuccessfully.png)
+- Creating Embeddings
+![Creating Embeddings](screenshots/Creating%20Embeddings.png)
+- Embeddinga are stored in Vector DB
+![Embeddinga are stored in Vector DB](screenshots/Embeddinga%20are%20stored%20in%20Vector%20DB.png)
+- Q&A Output
+![Q&A Output](screenshots/Q&A%20Output.png)
 
 ## 📝 License
 This project is licensed under the **MIT License**.
