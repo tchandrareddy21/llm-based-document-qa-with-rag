@@ -3,6 +3,8 @@
 ## 📌 Overview
 - This project implements a Retrieval-Augmented Generation (RAG) system that enables users to upload PDF documents and interact with an LLM to extract meaningful insights. The system uses Groq for querying the LLM and OpenAI for generating embeddings, ensuring efficient document retrieval and accurate answers.
 
+## Architecture
+![Architecture](flowcharts/Document%20Q&A%20Process%20Flow.png)
 ## 🚀 Features
 - 📄 **PDF Upload**: Users can upload research papers or other documents in PDF format.
 - 🧠 **Embeddings Creation**: Generates vector embeddings for uploaded documents using OpenAI embeddings.
