@@ -24,7 +24,7 @@
 ### To run locally follow below steps:
 #### Step 1: Clone the repository:
 ```pycon
-git clone tchandrareddy21/
+git clone https://github.com/tchandrareddy21/llm-based-document-qa-with-rag.git
 ```
 #### Step 2: Create a virtual environment and activate it:
 ```pycon
